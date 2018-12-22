@@ -1,5 +1,5 @@
 # ESP32 SHT1x InfluxDB
-Sending measurement data from Sensirion Temperature and Humidity sensor SHT1x (SHT10, SHT11, SHT15) connected to ESP32 to your InfluxDB database.
+Sending measurements data from Sensirion Temperature and Humidity sensor SHT1x (SHT10, SHT11, SHT15) connected to ESP32 to your InfluxDB database.
 
 Based on [SHT1x library](https://github.com/practicalarduino/SHT1x) and [ESP_influxdb library](https://github.com/hwwong/ESP_influxdb).
 
